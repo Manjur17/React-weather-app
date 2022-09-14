@@ -5,20 +5,20 @@ import CityComponent from "./Components/City";
 import WeatherComponent from "./Components/Weather";
 
 export const WeatherIcons = {
-  "01d": "/weathers-app/icons/sunny.svg",
-  "01n": "/weathers-app/icons/night.svg",
-  "02d": "/weathers-app/icons/day.svg",
-  "02n": "/weathers-app/icons/cloudy-night.svg",
-  "03d": "/weathers-app/icons/cloudy.svg",
-  "03n": "/weathers-app/icons/cloudy.svg",
-  "04d": "/weathers-app/icons/perfect-day.svg",
-  "04n": "/weathers-app/icons/cloudy-night.svg",
-  "09d": "/weathers-app/icons/rain.svg",
-  "09n": "/weathers-app/icons/rain-night.svg",
-  "10d": "/weathers-app/icons/rain.svg",
-  "10n": "/weathers-app/icons/rain-night.svg",
-  "11d": "/weathers-app/icons/storm.svg",
-  "11n": "/weathers-app/icons/storm.svg",
+  "01d": "/weather-app/icons/sunny.svg",
+  "01n": "/weather-app/icons/night.svg",
+  "02d": "/weather-app/icons/day.svg",
+  "02n": "/weather-app/icons/cloudy-night.svg",
+  "03d": "/weather-app/icons/cloudy.svg",
+  "03n": "/weather-app/icons/cloudy.svg",
+  "04d": "/weather-app/icons/perfect-day.svg",
+  "04n": "/weather-app/icons/cloudy-night.svg",
+  "09d": "/weather-app/icons/rain.svg",
+  "09n": "/weather-app/icons/rain-night.svg",
+  "10d": "/weather-app/icons/rain.svg",
+  "10n": "/weather-app/icons/rain-night.svg",
+  "11d": "/weather-app/icons/storm.svg",
+  "11n": "/weather-app/icons/storm.svg",
 };
 
 const Container = styled.div`
